@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917579859147",
+    "project_id": "warasin-10a16",
+    "storage_bucket": "warasin-10a16.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917579859147:android:61a795bb4ce09277ccc74e",
+        "android_client_info": {
+          "package_name": "com.example.warasin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSqKuc1nJMOxIdiWSM_hl7kouRosmqEmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
